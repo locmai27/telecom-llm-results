@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/README.md
+!/metrics.json
+!/results.csv
+!/per_class_f1.csv
+!/SHA256SUMS.txt
+!/figures/
+/figures/*
+!/figures/baseline_comparison.png
+!/figures/confusion_matrices.png

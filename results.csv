@@ -1,0 +1,9 @@
+id,model,category,correct,n,accuracy_percent,macro_f1_percent
+base,Pretrained checkpoint,primary,17,305,5.57377049,5.01540225
+majority,Training-majority baseline,primary,35,305,11.47540984,2.05882353
+sft,SFT,primary,60,305,19.67213115,18.24167074
+sft_grpo,SFT + GRPO,primary,55,305,18.03278689,15.16259169
+sft_reordered,SFT (reordered fields),stress_test,38,305,12.45901639,7.25063340
+sft_grpo_reordered,SFT + GRPO (reordered fields),stress_test,38,305,12.45901639,8.90319515
+initial_sft,Initial SFT pilot,development_history,9,305,2.95081967,0.57324841
+initial_sft_grpo,Initial SFT + GRPO pilot,development_history,35,305,11.47540984,2.05882353

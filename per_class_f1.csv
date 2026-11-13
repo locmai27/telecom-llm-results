@@ -1,0 +1,11 @@
+class,validation_support,base_f1_percent,sft_f1_percent,sft_grpo_f1_percent
+Antenna Failure,9,6.38297872,30.00000000,37.50000000
+Co-Channel Interference (Mild),20,36.36363636,12.34567901,0.00000000
+Co-Channel Interference (Severe),35,7.40740741,3.27868852,20.91503268
+Faulty RF Filters (Temporal),42,0.00000000,45.23809524,26.86567164
+Doppler Shift (Severe),32,0.00000000,29.62962963,22.41379310
+Faulty Handover Algorithm (Too Frequent),35,0.00000000,0.00000000,0.00000000
+Buffer Overflow (Gradual Buildup),53,0.00000000,9.52380952,21.05263158
+Resource Allocation Bugs,17,0.00000000,19.04761905,8.33333333
+High Network Congestion (Gradual Buildup),43,0.00000000,24.65753425,14.54545455
+High Network Congestion (Sudden Spike),19,0.00000000,8.69565217,0.00000000
